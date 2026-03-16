@@ -38,8 +38,9 @@ claude code fixed all the bugs
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
-
+   ![Screenshot of winning game](https://github.com/Tejaslalwani24/ai110-module1show-gameglitchinvestigator-starter/blob/main/Screenshot%202026-03-15%20225919.png)
 - [ ] Test Cases passed screenshot
+![Screenshot of test cases passed](https://github.com/Tejaslalwani24/ai110-module1show-gameglitchinvestigator-starter/blob/main/Screenshot%202026-03-15%20223752.png)  
 
 ## 🚀 Stretch Features
 
