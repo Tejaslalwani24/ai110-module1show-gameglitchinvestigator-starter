@@ -26,12 +26,20 @@ It wrote the code, ran away, and now the game is unplayable.
 ## 📝 Document Your Experience
 
 - [ ] Describe the game's purpose.
+   Games purpose was to guess the number
 - [ ] Detail which bugs you found.
+1. hints were opposite, go higher should be go lower and go lower should be go higher
+2. History was not updating properly
+3. New game not working properly
+4. attempts should start at 0 but it was starting at 1.
 - [ ] Explain what fixes you applied.
+claude code fixed all the bugs
 
 ## 📸 Demo
 
 - [ ] [Insert a screenshot of your fixed, winning game here]
+
+- [ ] Test Cases passed screenshot
 
 ## 🚀 Stretch Features
 
